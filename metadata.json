@@ -1,0 +1,6 @@
+{
+  "name": "TriviaVerse Live - Dynamic AI Host Showdown",
+  "description": "An electrifying live trivia game show featuring dynamic AI hosts with customizable personalities, real-time voice conversations via Live API, text-to-speech commentary, and search-grounded questions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
